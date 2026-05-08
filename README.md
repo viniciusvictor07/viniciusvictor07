@@ -16,3 +16,4 @@ Sou um desenvolvedor focado em **Back-end**, atualmente aprofundando meus conhec
 ## 📫 Como me encontrar:
 *   **LinkedIn**: [in/viniciusvictor-dev](https://www.linkedin.com/in/viniciusvictor-dev)
 *   **E-mail**: viniciusvictordev@gmail.com
+*   **GitHub**: [github.com/viniciusvictor07](https://github.com/viniciusvictor07)
