@@ -1,6 +1,6 @@
 # Olá, eu sou o Vinícius Victor! 👋
 
-Sou um desenvolvedor focado em **Back-end**, atualmente aprofundando meus conhecimentos no ecossistema **Java**. Minha jornada é marcada pela transição de carreira e pela busca constante por criar sistemas eficientes e bem estruturados.
+Sou um desenvolvedor focado em **Back-end**, atualmente aprofundando meus conhecimentos no ecossistema **Java**. Busco evoluir constantemente minhas habilidades em arquitetura de sistemas, lógica de negócio e boas práticas de desenvolvimento, com foco na criação de soluções eficientes e bem estruturadas.
 
 ## 🚀 O que estou estudando agora:
 *   **Java SE**: Domínio de POO e coleções.
