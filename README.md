@@ -10,6 +10,12 @@ Sou um desenvolvedor focado em **Back-end com ecossistema Java**, atualmente exp
 
 🛠 **Tecnologias e Ferramentas:**
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 📫 **Como me encontrar:**
 
 * **LinkedIn:** [in/viniciusvictor-dev](https://linkedin.com/in/viniciusvictor-dev)
